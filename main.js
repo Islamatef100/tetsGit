@@ -1,3 +1,4 @@
+
 // new ranch called second branch
 // x('121')
 //  function x(str) {
@@ -70,3 +71,5 @@ islam()
 
 let islaObj = new islam()
 console.log(islaObj)
+
+

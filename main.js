@@ -1,2 +1,1 @@
-let x = 10;
-let z = 5;
+let name ='merge branch with master';

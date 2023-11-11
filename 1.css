@@ -1,0 +1,13 @@
+.container{
+    width: 80%;
+    margin: auto;
+
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+.input{
+    margin: 25px;
+    padding: 20px;
+}

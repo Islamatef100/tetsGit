@@ -62,7 +62,7 @@
 // let obj = new tryNew()
 // console.log(obj.getAge()) 
 function islam() {
-     this.x = 10
+     this.x = 12
     console.log(x)
 }
 islam()

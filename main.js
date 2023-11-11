@@ -1,5 +1,5 @@
 
-// new ranch called second branch
+// new ranch called first branch
 // x('121')
 //  function x(str) {
 //     let isPolian = false;

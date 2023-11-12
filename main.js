@@ -1,5 +1,5 @@
 // new ranch called second branch
-// x('121')
+// x('123')
 //  function x(str) {
 //     let isPolian = false;
 //     for (let i = 0; i < str.length / 2; i++) {

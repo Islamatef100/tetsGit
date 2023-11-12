@@ -1,5 +1,5 @@
 
-// x('222')
+// x('500')
 //  function x(str) {
 //     let isPolian = false;
 //     for (let i = 0; i < str.length / 2; i++) {
